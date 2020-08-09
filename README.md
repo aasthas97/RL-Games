@@ -1,2 +1,2 @@
-# rl_games
+# RL Games
 RL agents play simple games.
